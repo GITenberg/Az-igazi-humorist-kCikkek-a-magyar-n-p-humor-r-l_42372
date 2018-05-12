@@ -1,0 +1,30 @@
+_repo: Az-igazi-humorist-kCikkek-a-magyar-n-p-humor-r-l_42372
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mikszáth, Kálmán
+    aliases:
+    - Kálmán Mikszáth
+    - Mikszath, Kalman
+    birthdate: 1847
+    deathdate: 1910
+    gutenberg_agent_id: '26008'
+    url: http://www.gutenberg.org/2009/agents/26008
+    wikipedia: http://en.wikipedia.org/wiki/K%C3%A1lm%C3%A1n_Miksz%C3%A1th
+description: ''
+gutenberg_issued: '2013-03-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42372'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Hungarian wit and humor'
+title: 'Az igazi humoristák: Cikkek a magyar nép humoráról'
+url: http://www.gutenberg.org/ebooks/42372
